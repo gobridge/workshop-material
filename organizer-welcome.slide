@@ -1,0 +1,130 @@
+GoBridge Workshop - Welcome
+Thank you for coming!
+
+[date of workshop here]
+
+[organizer name here]
+[organizer job title - company]
+[email - optional]
+[organizer's website]
+@[organizer twitter handle here]
+
+
+* Welcome to the GoBridge [name of the course] workshop!
+.image images/gopher-brown.jpg _ 300
+.caption _Gopher_ by [[http://www.reneefrench.com][Renée French]]
+
+
+* Backchannel for this workshop
+`#gobridge-workshop` channel on Gophers Slack.
+
+Post any question you have, *starting* *now!*
+
+If not on that Slack team, request an invite:
+
+.link http://bit.ly/gophers-slack-invite http://bit.ly/gophers-slack-invite
+
+
+* Housekeeping items
+- Raise your hand
+So the instructor and TAs can better assist everyone, we ask that you please raise your hand before asking a question. And please do ask questions!
+
+- Workshop storyline
+Sometimes we compile the best tweets and other social media posts into a storyline. Use the hashtag #gobridge when posting so we can find you!
+
+
+* Code of Conduct
+A reminder that we follow Go/GoBridge Code of Conduct. It can be found here:
+
+.link http://coc.golangbridge.org http://coc.golangbridge.org
+
+
+* We are here to help you
+
+Organizers
+- ...
+- ...
+
+Teacher(s)
+- ...
+- ...
+
+TAs
+- ..
+- ..
+
+
+* Don't be shy!
+
+- Ask questions!
+
+- TAs and teachers are here to help
+
+
+* Why are we here?
+
+- to educate underrepresented communities
+- to teach technical skills
+- to increase Go adoption
+- to foster diversity in Go
+
+GoBridge is dedicated to work so that the makers of technology are reflective of our diverse society, because diversity fosters innovation.
+
+  It’s been my personal experience and it is also well documented in academia,
+  that diverse teams are more innovative, creative and adaptable in modern
+  cultures. Diversity is strength. Diversity is longevity.
+.caption Andrew Gerrand - GopherCon 2015 closing keynote talk
+
+
+* It's a community project!
+
+- All GoBridge materials are free and open to reuse by anyone (restrictions apply to name it a GoBridge workshop.)
+
+- Many individuals work to make this possible. Join us!
+
+- GoBridge is part of the Bridge Foundry non-profit umbrella organization.
+
+
+* Great resources and community
+
+- The Go Wiki has tons of resources and links to all kinds of things:
+
+.link https://github.com/golang/go/wiki https://github.com/golang/go/wiki
+
+- Gophers Slack: There is probably an active channel for your city and your favorite open source projects:
+
+.link http://bit.ly/gophers-slack-invite http://bit.ly/gophers-slack-invite
+
+- There are forums where people discuss all things Go:
+
+.link https://forum.golangbridge.org https://forum.golangbridge.org
+.link https://groups.google.com/forum/#!forum/golang-nuts https://groups.google.com/forum/#!forum/golang-nuts
+
+- Women Who Go: A group of Gophers exclusively for those who identify as women. Find or start a local chapter:
+
+.link http://www.womenwhogo.org http://www.womenwhogo.org
+
+
+* Goals of the workshop
+
+Today you will learn...
+
+
+* What is Go?
+
+  Simple, Poetic, Pithy
+
+So much so, that it inspired an ever increasing list of proverbs:
+
+.link http://go-proverbs.github.io http://go-proverbs.github.io
+
+
+* Please thank our awesome sponsor(s)!
+
+- Name of sponsor
+
+.image images/image-name.jpg _ 100
+
+- Name of sponsor
+
+.image images/image-name.jpg _ 100
