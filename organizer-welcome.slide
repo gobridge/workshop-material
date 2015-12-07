@@ -73,7 +73,7 @@ GoBridge is dedicated to work so that the makers of technology are reflective of
   It’s been my personal experience and it is also well documented in academia,
   that diverse teams are more innovative, creative and adaptable in modern
   cultures. Diversity is strength. Diversity is longevity.
-.caption Andrew Gerrand - GopherCon 2015 closing keynote talk
+.caption Andrew Gerrand - GopherCon 2015 closing keynote
 
 
 * It's a community project!
@@ -85,7 +85,7 @@ GoBridge is dedicated to work so that the makers of technology are reflective of
 - GoBridge is part of the Bridge Foundry non-profit umbrella organization.
 
 
-* Great resources and community
+* Great resources and community: You are not alone
 
 - The Go Wiki has tons of resources and links to all kinds of things:
 
@@ -111,20 +111,32 @@ Today you will learn...
 
 
 * What is Go?
-
-  Simple, Poetic, Pithy
+Simple, Poetic, Pithy
 
 So much so, that it inspired an ever increasing list of proverbs:
 
 .link http://go-proverbs.github.io http://go-proverbs.github.io
 
 
-* Please thank our awesome sponsor(s)!
+* Before we start...
+Please thank our awesome sponsors!
 
-- Name of sponsor
 
-.image images/image-name.jpg _ 100
+* Sagan Systems
 
-- Name of sponsor
+  Sagan is a team of successful entrepreneurs crafting a
+  delightful customer support experience for today's
+  mobile, social, always connected consumer.
 
-.image images/image-name.jpg _ 100
+.link http://sagansystems.com http://sagansystems.com
+
+.image images/sagan.jpg _ 200
+
+* Intel
+
+  Intel designs and builds the essential technologies
+  that serve as the foundation for the world's computing devices.
+
+.link http://intel.com http://intel.com
+
+.image images/intel.png _ 200
