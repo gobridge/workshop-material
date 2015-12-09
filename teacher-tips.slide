@@ -1,0 +1,38 @@
+GoBridge Workshop - Teacher tips
+
+GoBridge
+support@golangbridge.org
+http://golangbridge.org
+@golangbridge
+
+
+* General Teaching Advice
+
+When planning, don't think about what _you're_ going to do. Think about what _they're_ going to do.
+
+
+* Metaphors and Stories for Teaching Programming:
+
+A program is like a recipe. There are two parts: a list of instructions and a list of ingredients. Think of code as the instructions and data as the ingredients.
+
+Also, to extend the metaphor, think about doubling a recipe: the instructions don't change even though the data are different this time.
+
+Computer memory is like a warehouse with lots of boxes. Each box has something inside (the data) and it also has a label (the variable name).
+
+The command line as Zork. You are "in" a room (a directory) and can either act on things in the room (commands) or move to a new room (cd). It's very important that you know where you are! Teach how to read the command line, and do an "ls" (or "dir"), "pwd", to look around.
+
+
+* Notes
+- Have one volunteer be a runner to remind people when it's 10 minutes until the next break. (This works really well.)
+- Make sure all of the projectors have Mac adaptors
+- Handouts with all of the code that people need to type
+- Tell people at the beginning where to find the material online
+- Have a volunteer leader, make sure they are distributed evenly
+
+
+* Notes (...cont.)
+- Start with live coding - watch and type along, don't even use slides.
+- If there are line numbers, we can say go to line 32
+- Go into Go Playground to practice basic concepts first, don't discuss what a variable is in the abstract right away. Learning by doing first and talking later works better.
+- Discuss Go idioms where appropriate.
+- Get a good night's sleep before the class, it is important to be well rested and fresh when teaching or TA'ing.
