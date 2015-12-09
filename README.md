@@ -4,14 +4,14 @@ This is a quick list of the workshop slide decks contained in this repo. These a
 
 # Material for teachers
 
-- [Teacher training](http://go-talks.appspot.com/github.com/gobridge/workshop-material/teacher-training.slide)
+- WIP: [Teacher training](http://go-talks.appspot.com/github.com/gobridge/workshop-material/teacher-training.slide)
 - [Teacher tips](http://go-talks.appspot.com/github.com/gobridge/workshop-material/teacher-tips.slide)
 - [Teacher cheat sheet](http://go-talks.appspot.com/github.com/gobridge/workshop-material/teacher-cheat-sheet.slide)
 - [TA cheat sheet](http://go-talks.appspot.com/github.com/gobridge/workshop-material/ta-cheat-sheet.slide)
 
 # Material for organizers
 
-- [Organizer training](http://go-talks.appspot.com/github.com/gobridge/workshop-material/organizer-training.slide)
+- WIP: [Organizer training](http://go-talks.appspot.com/github.com/gobridge/workshop-material/organizer-training.slide)
 
 The slide decks below are templates. Please fork this repo and update these templates to fine-tune the content according to your own workshop (your sponsor listing, the course you are offering, your local meetup info, additional info you want to include, etc.) Use your own fork when presenting.
 
