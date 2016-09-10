@@ -5,31 +5,41 @@ support@golangbridge.org
 http://golangbridge.org
 @golangbridge
 
+
 * Intro
+
 Thanks for volunteering your time to TA a workshop. Here we've tried to
 capture tips to make your experience, and your student's, better.
 
+
 * First, Do No Harm
 
-The *most* *important* thing you can do as a TA is to make people
-feel they are in a *safe* *learning* *environment*. The worst outcome
-is for a student to leave frustrated, confused, or belittled and never wanting
-to try programming again.
+The *most*important* thing you can do as a TA is to make people
+feel they are in a *safe*learning*environment*.
+
+The *worst*outcome* is for a student to leave frustrated, confused,
+or belittled and never wanting to try programming again.
+
 
 * Troubleshoot Problems
 
 The most important job of a TA is to help students who are stuck on a step so
 that the whole class does not have to wait for them.
 
+
 * Make yourself available for questions and troubleshooting
 
 Some amount of struggling is part of learning, but if someone looks frustrated,
-offer a simple "Anything I can help with?" At the same time, try not to hover.
+offer a simple "Anything I can help with?"
+
+At the same time, try not to hover.
+
 
 * Help the Teacher Read the Room
 
-In general, teachers, especially new ones, tend to go too quickly. If you can
-tell students are confused, try offering to repeat your own explanation
+In general, teachers, especially new ones, tend to go too quickly.
+
+If you can tell students are confused, try offering to repeat your own explanation
 of a concept. Even just hearing it again can help and spark new questions.
 
 * Help with Logistics
@@ -41,8 +51,7 @@ Volunteer to:
 
 * Conduct
 
-- Make sure you are familiar with the Go/GoBridge Code of Conduct and possible issues that can come up, and how to handle them:
-.link http://coc.golangbridge.org http://coc.golangbridge.org
+- Make sure you are familiar with the Go/GoBridge Code of Conduct and possible issues that can come up, and how to handle them: [[http://coc.golangbridge.org][http://coc.golangbridge.org]]
 
 - Help maintain a safe space not only for students, but also for all the volunteers.
 
@@ -51,5 +60,6 @@ Volunteer to:
 
 * Learn from Your Teacher
 
-Most teachers begin as TAs. Note what does and doesn't work about the class and
-use that if you get the opportunity to teach.
+Most teachers begin as TAs.
+
+Note what does and doesn't work about the class and use that if you get the opportunity to teach.
