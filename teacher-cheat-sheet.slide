@@ -7,21 +7,30 @@ http://golangbridge.org
 
 
 * Intro
-Thanks for volunteering your time to teach a workshop. Here we've tried to
-capture tips to make your experience, and your student's, better.
+
+Thanks for volunteering your time to teach a workshop.
+
+Here we've tried to capture tips to make your experience, and your student's, better.
 
 
 * First, Do No Harm
 
-The *most* *important* thing you can do as a teacher is to make people
-feel they are in a *safe* *learning* *environment*. The worst outcome
-is for a student to leave frustrated, confused, or belittled and never wanting
-to try programming again.
+The *most*important* thing you can do as a teacher is to make people
+feel they are in a *safe*learning*environment*.
+
+The *worst*outcome* is for a student to leave frustrated, confused, or
+belittled and never wanting to try programming again.
 
 
 * Teacher & TA Huddle
 
-It can be really helpful to talk with your TAs briefly before you begin and set the tone that your classroom will be a collaborative experience, not just a lecture. If any of them are up for it, you can have them teach a section or even just explain or diagram a tricky concept like databases. But don't push people if they aren't ready.
+It can be really helpful to talk with your TAs briefly before you begin and
+set the tone that your classroom will be a collaborative experience, not just a lecture.
+
+If any of them are up for it, you can have them teach a section or even just explain or
+diagram a tricky concept like databases.
+
+But don't push people if they aren't ready.
 
 
 * Laptop Setup
@@ -35,15 +44,17 @@ It can be really helpful to talk with your TAs briefly before you begin and set 
 
 * Try to Put Yourself in a Student's Shoes
 
-If you code all day for your job, it's easy to switch windows without stating your intent, and use all sorts of timesaving shortcuts without even realizing it.
+If you code all day for your job, it's easy to switch windows without stating your intent
+and use all sorts of time saving shortcuts without even realizing it.
 
-Always announce keyboard shortcuts and commands, along with *where* to run them. Beginner students often don't know the difference between bash, IRB, the Rails console, etc.
+Always announce keyboard shortcuts and commands, along with *where* to run them.
+Beginner students often don't know the difference between bash, editor, etc.
 
-If you want, you can try
-[https://github.com/keycastr/keycastr](KeyCastr) which will display shortcuts as you
-type but be careful if you type passwords ;-)
+If you want, you can try [[https://github.com/keycastr/keycastr][KeyCastr]] which will display shortcuts as you type
+but be careful if you type passwords ;-)
 
-Be explicit: "Let's go back to our *text* *editor* and find the <strong>topics.css</strong> file in the app/assets/stylesheets folder so we can change the style."
+Be explicit:
+"Let's go back to our *text* *editor* and find the *topics.css* file in the *app/assets/stylesheets* folder so we can change the style."
 
 
 * How to Begin the Class
@@ -62,6 +73,7 @@ If it's clear that the class is generally at a lower level that the requisites f
 
 
 * Pacing
+
 - Hint: almost all new teachers go *too* *fast*
 - Repeat, repeat, repeat
 - Stop a lot so that the slowest person can catch up to the fastest
@@ -70,6 +82,7 @@ If it's clear that the class is generally at a lower level that the requisites f
 
 
 * Ask Questions!
+
 - "What do you think will happen when I run this command?"
 - Give generous pauses (count to 10!) after asking questions
 - Don't be afraid to call on people by name
@@ -77,6 +90,7 @@ If it's clear that the class is generally at a lower level that the requisites f
 
 
 * Whiteboards
+
 If you have whiteboards, take advantage of them. Ask a TA to write
 out new vocab there so it won't disappear as you move through slides.
 
@@ -84,6 +98,7 @@ Many people are visual learners so diagrams can be very helpful too.
 
 
 * Breaks!
+
 - Don't forget about the breaks. It's easy to get into flow and forget.
 - Use a timer on your phone or ask one of the TAs to be a Timekeeper
 - Try to politely leave the room yourself. It can be easy to spend all the breaks answering questions. Teaching is a ton of work. Give yourself a break too!
